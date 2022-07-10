@@ -1,1 +1,1 @@
-# DIceChallenge
+Dice challenge
